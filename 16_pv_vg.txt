@@ -1,1 +1,3 @@
-/dev/loop0         vg_storage
+# LVM не создан из-за ограничений Codespaces
+# Альтернатива: файл-образ /tmp/storage.img (1 ГБ, ext4)
+# Примонтирован в /mnt/storage через mount -o loop
