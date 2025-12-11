@@ -1,0 +1,1 @@
+/dev/loop0         vg_storage
