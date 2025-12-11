@@ -1,0 +1,16 @@
+Создано дерево ~/1/2/3
+│   ├── output02_ssh_key_login.txt
+│   ├── output03_keys.txt
+│   ├── output09_script_run.txt
+│   ├── output09_tree.txt
+│   ├── output10_fstab.txt
+│   ├── output11_df.txt
+│   ├── output12_du_home.txt
+│   └── script.sh
+├── lab1_debug.log
+├── nvm -> /usr/local/share/nvm
+└── vagrant-lab7
+    ├── Vagrantfile
+    └── X
+
+8 directories, 13 files

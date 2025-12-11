@@ -1,0 +1,28 @@
+NAME    FSTYPE FSVER LABEL UUID FSAVAIL FSUSE% MOUNTPOINTS
+loop0                                          
+loop1                                          
+loop2                                          
+loop3                                          
+loop4                             18.6G    35% /home/vscode/.minikube
+                                               /var/lib/docker
+                                               /workspaces/.codespaces/.persistedshare
+                                               /etc/hosts
+                                               /etc/hostname
+                                               /etc/resolv.conf
+                                               /workspaces
+loop5                                          
+loop6                                          
+loop7                                          
+loop8                                          
+sda                                            
+├─sda1                             7.6G    73% /workspaces/.codespaces/shared
+│                                              /.codespaces/bin
+│                                              /vscode
+│                                              /usr/sbin/docker-init
+├─sda14                                        
+└─sda15                                        
+sdb                                            
+└─sdb1                                         
+sdc                                            
+└─sdc1                            37.3G    10% /tmp
+sr0                                            
